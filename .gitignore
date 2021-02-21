@@ -9,7 +9,13 @@ features/*/src/main/history
 npm-debug.log
 node_modules/
 
+bundles/org.openhab.ui.basic/npm-shrinkwrap.json
+
 bundles/org.openhab.ui.cometvisu/.openapi-generator/openapi.yaml.sha256
+
+bundles/org.openhab.ui.habot/web/package-lock.json
+
+bundles/org.openhab.ui/web/package-lock.json
 
 bundles/org.openhab.ui/.factorypath
 
